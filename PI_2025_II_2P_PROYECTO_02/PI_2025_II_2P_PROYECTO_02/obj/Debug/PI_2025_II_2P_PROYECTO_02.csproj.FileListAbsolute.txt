@@ -1,0 +1,27 @@
+C:\Users\Dell\OneDrive\Desktop\periodo II 2025\programacion 1\Proyecto_02\PI_2025_II_2P_PROYECTO_02\PI_2025_II_2P_PROYECTO_02\bin\Debug\PI_2025_II_2P_PROYECTO_02.exe.config
+C:\Users\Dell\OneDrive\Desktop\periodo II 2025\programacion 1\Proyecto_02\PI_2025_II_2P_PROYECTO_02\PI_2025_II_2P_PROYECTO_02\bin\Debug\PI_2025_II_2P_PROYECTO_02.exe
+C:\Users\Dell\OneDrive\Desktop\periodo II 2025\programacion 1\Proyecto_02\PI_2025_II_2P_PROYECTO_02\PI_2025_II_2P_PROYECTO_02\bin\Debug\PI_2025_II_2P_PROYECTO_02.pdb
+C:\Users\Dell\OneDrive\Desktop\periodo II 2025\programacion 1\Proyecto_02\PI_2025_II_2P_PROYECTO_02\PI_2025_II_2P_PROYECTO_02\obj\Debug\PI_2025_II_2P_PROYECTO_02.csproj.AssemblyReference.cache
+C:\Users\Dell\OneDrive\Desktop\periodo II 2025\programacion 1\Proyecto_02\PI_2025_II_2P_PROYECTO_02\PI_2025_II_2P_PROYECTO_02\obj\Debug\PI_2025_II_2P_PROYECTO_02.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Desktop\periodo II 2025\programacion 1\Proyecto_02\PI_2025_II_2P_PROYECTO_02\PI_2025_II_2P_PROYECTO_02\obj\Debug\PI_2025_II_2P_PROYECTO_02.exe
+C:\Users\Dell\OneDrive\Desktop\periodo II 2025\programacion 1\Proyecto_02\PI_2025_II_2P_PROYECTO_02\PI_2025_II_2P_PROYECTO_02\obj\Debug\PI_2025_II_2P_PROYECTO_02.pdb
+C:\Users\Dell\OneDrive\Desktop\periodo II 2025\programacion 1\Proyecto_02\PI_2025_II_2P_PROYECTO_02\PI_2025_II_2P_PROYECTO_02\obj\Debug\PI_2025_II_2P_PROYECTO_02.exe.config
+C:\Users\KELVIN CRUZ\Desktop\PROYECTO 02 MAIKEE Y GARY\PI_2025_II_2P_PROYECTO_02\PI_2025_II_2P_PROYECTO_02\obj\Debug\PI_2025_II_2P_PROYECTO_02.csproj.AssemblyReference.cache
+C:\Users\KELVIN CRUZ\Desktop\PROYECTO 02 MAIKEE Y GARY\PI_2025_II_2P_PROYECTO_02\PI_2025_II_2P_PROYECTO_02\obj\Debug\PI_2025_II_2P_PROYECTO_02.exe.config
+C:\Users\KELVIN CRUZ\Desktop\PROYECTO 02 MAIKEE Y GARY\PI_2025_II_2P_PROYECTO_02\PI_2025_II_2P_PROYECTO_02\obj\Debug\PI_2025_II_2P_PROYECTO_02.csproj.CoreCompileInputs.cache
+C:\Users\KELVIN CRUZ\Desktop\PROYECTO 02 MAIKEE Y GARY\PI_2025_II_2P_PROYECTO_02\PI_2025_II_2P_PROYECTO_02\obj\Debug\PI_2025_II_2P_PROYECTO_02.exe
+C:\Users\KELVIN CRUZ\Desktop\PROYECTO 02 MAIKEE Y GARY\PI_2025_II_2P_PROYECTO_02\PI_2025_II_2P_PROYECTO_02\obj\Debug\PI_2025_II_2P_PROYECTO_02.pdb
+C:\Users\KELVIN CRUZ\Desktop\PROYECTO 02 MAIKEE Y GARY\PI_2025_II_2P_PROYECTO_02\PI_2025_II_2P_PROYECTO_02\bin\Debug\PI_2025_II_2P_PROYECTO_02.exe.config
+C:\Users\KELVIN CRUZ\Desktop\PROYECTO 02 MAIKEE Y GARY\PI_2025_II_2P_PROYECTO_02\PI_2025_II_2P_PROYECTO_02\bin\Debug\PI_2025_II_2P_PROYECTO_02.exe
+C:\Users\KELVIN CRUZ\Desktop\PROYECTO 02 MAIKEE Y GARY\PI_2025_II_2P_PROYECTO_02\PI_2025_II_2P_PROYECTO_02\bin\Debug\PI_2025_II_2P_PROYECTO_02.pdb
+C:\Users\Dell\OneDrive\Desktop\periodo II 2025\programacion 1\Proyecto-02-Video_juego-main\PROYECTO 02 MAIKEE Y GARY\PI_2025_II_2P_PROYECTO_02\PI_2025_II_2P_PROYECTO_02\bin\Debug\PI_2025_II_2P_PROYECTO_02.exe.config
+C:\Users\Dell\OneDrive\Desktop\periodo II 2025\programacion 1\Proyecto-02-Video_juego-main\PROYECTO 02 MAIKEE Y GARY\PI_2025_II_2P_PROYECTO_02\PI_2025_II_2P_PROYECTO_02\bin\Debug\PI_2025_II_2P_PROYECTO_02.exe
+C:\Users\Dell\OneDrive\Desktop\periodo II 2025\programacion 1\Proyecto-02-Video_juego-main\PROYECTO 02 MAIKEE Y GARY\PI_2025_II_2P_PROYECTO_02\PI_2025_II_2P_PROYECTO_02\bin\Debug\PI_2025_II_2P_PROYECTO_02.pdb
+C:\Users\Dell\OneDrive\Desktop\periodo II 2025\programacion 1\Proyecto-02-Video_juego-main\PROYECTO 02 MAIKEE Y GARY\PI_2025_II_2P_PROYECTO_02\PI_2025_II_2P_PROYECTO_02\obj\Debug\PI_2025_II_2P_PROYECTO_02.csproj.AssemblyReference.cache
+C:\Users\Dell\OneDrive\Desktop\periodo II 2025\programacion 1\Proyecto-02-Video_juego-main\PROYECTO 02 MAIKEE Y GARY\PI_2025_II_2P_PROYECTO_02\PI_2025_II_2P_PROYECTO_02\obj\Debug\PI_2025_II_2P_PROYECTO_02.exe.config
+C:\Users\Dell\OneDrive\Desktop\periodo II 2025\programacion 1\Proyecto-02-Video_juego-main\PROYECTO 02 MAIKEE Y GARY\PI_2025_II_2P_PROYECTO_02\PI_2025_II_2P_PROYECTO_02\obj\Debug\PI_2025_II_2P_PROYECTO_02.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Desktop\periodo II 2025\programacion 1\Proyecto-02-Video_juego-main\PROYECTO 02 MAIKEE Y GARY\PI_2025_II_2P_PROYECTO_02\PI_2025_II_2P_PROYECTO_02\obj\Debug\PI_2025_II_2P_PROYECTO_02.exe
+C:\Users\Dell\OneDrive\Desktop\periodo II 2025\programacion 1\Proyecto-02-Video_juego-main\PROYECTO 02 MAIKEE Y GARY\PI_2025_II_2P_PROYECTO_02\PI_2025_II_2P_PROYECTO_02\obj\Debug\PI_2025_II_2P_PROYECTO_02.pdb
+C:\Users\Dell\OneDrive\Desktop\periodo II 2025\programacion 1\Proyecto-02-Video_juego-main\PROYECTO 02 MAIKEE Y GARY\PI_2025_II_2P_PROYECTO_02\PI_2025_II_2P_PROYECTO_02\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Dell\OneDrive\Desktop\periodo II 2025\programacion 1\Proyecto-02-Video_juego-main\PROYECTO 02 MAIKEE Y GARY\PI_2025_II_2P_PROYECTO_02\PI_2025_II_2P_PROYECTO_02\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Dell\OneDrive\Desktop\periodo II 2025\programacion 1\Proyecto-02-Video_juego-main\PROYECTO 02 MAIKEE Y GARY\PI_2025_II_2P_PROYECTO_02\PI_2025_II_2P_PROYECTO_02\obj\Debug\PI_2025_.72E120D4.Up2Date
